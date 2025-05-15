@@ -58,15 +58,6 @@
 
 ---
 
-## 🚀 Projects
-
-> Add some of your live projects or GitHub repo links here:
-
-- 🔗 [**Project One**](#) – A brief description of what it does.
-- 🔗 [**Project Two**](#) – A brief description of what it does.
-
----
-
 ## ⚡ Fun Fact
 
 > I debug not just code, but sometimes even life. 💡
