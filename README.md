@@ -42,6 +42,12 @@
   <a href="https://www.linkedin.com/in/hitesh-khichar-35b310333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://www.instagram.com/hitesh_chaudhary__2157/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/hit3084" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
